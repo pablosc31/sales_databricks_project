@@ -1,4 +1,4 @@
-# Data Warehouse for sport store using Databricks, PySpark and SQL Server
+# Built a data warehouse for a sports store using Databricks, PySpark, and SQL Server.
 Data Warehouse and Analytics solution on Databricks, leveraging PySpark and SQL to perform data extraction, transformation, and loading (ETL), while generating actionable insights through comparative analysis of different approaches. Project involves:
 
   ***1. Data Architecture:*** Designing a data warehouse using a medallion architecture with Bronze, Silver, and Gold layers.
