@@ -19,4 +19,7 @@ The project adopts a medallion architecture. The **Bronze layer** stores raw dat
 In addition to the ETL processes, automation tools were leveraged to enhance the project’s robustness and realism, including jobs, pipelines, connection to Azure Blob Storage, Power BI, and compute resources.
 
 ## Dashboard Example
+
+The next image illustrates dashboard elements such as KPI cards, bar charts, and tables. With Genie AI, users can create new visualizations or cards using natural language.
+
 <img width="1308" height="863" alt="image" src="https://github.com/user-attachments/assets/ba7333cc-8bba-490e-b833-c7dd6ac2692c" />
